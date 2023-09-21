@@ -73,11 +73,6 @@ module.exports = () => {
           },
         },
     ],
-
-    module: {
-      rules: [
-        
-      ],
     },
   };
 };
